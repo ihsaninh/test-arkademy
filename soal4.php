@@ -2,7 +2,7 @@
 $arrays = [
 			['a','c','b','e','d'],
 			['g','e','f'],
-			['u', 't', 'v', 'u', 'w'],
+			['x', 't', 'v', 'u', 'w'],
 			['h', 'j',' m', 'k', 'i','l']
 ];
 function sortArray($arrays) {
