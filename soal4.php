@@ -3,7 +3,7 @@ $arrays = [
 			['a','c','b','e','d'],
 			['g','e','f'],
 			['x', 't', 'v', 'u', 'w'],
-			['h', 'j',' m', 'k', 'i','l']
+			['h', 'j','m', 'k', 'i','l']
 ];
 function sortArray($arrays) {
 	sort($arrays);
