@@ -6,10 +6,13 @@ $arrays = [
 ];
 
 function sortArray($arrays) {
-	array_multisort($arrays);
-	return $arrays;
+	sort($arrays);
+	foreach ($arrays as $array) {
+		array_multisort($array);
+		var_dump($array);
+	}
 }
 
-var_dump(sortArray($arrays));
+sortArray($arrays);
 
 ?>
