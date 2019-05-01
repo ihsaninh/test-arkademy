@@ -2,8 +2,8 @@
 $arrays = [
 			['a','c','b','e','d'],
 			['g','e','f'],
-			['t', 'u', 'v', 'w'],
-			['h', 'i', 'j', 'k', 'l', 'm']
+			['u', 't', 'v', 'u', 'w'],
+			['h', 'j',' m', 'k', 'i','l']
 ];
 function sortArray($arrays) {
 	sort($arrays);
