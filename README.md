@@ -9,3 +9,4 @@
 	- Username : root
 	- Password : ''
 	- DBName   : 'quick_count'
+![alt text](https://github.com/ihsaninh/test-arkademy/blob/master/quick_count.png)
