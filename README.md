@@ -10,5 +10,5 @@
 	- Password : ''
 	- DBName   : 'quick_count'	
 <p align="center">
-  <img src="https://github.com/ihsaninh/test-arkademy/blob/master/quick_count_ss.png">
+  <img src="https://github.com/ihsaninh/test-arkademy/blob/master/ss_quick_count.png">
 </p>
