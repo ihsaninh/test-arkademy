@@ -8,6 +8,7 @@
 	- Host     : localhost
 	- Username : root
 	- Password : ''
-	- DBName   : 'quick_count'
-	
-![alt text](https://github.com/ihsaninh/test-arkademy/blob/master/quick_count.png)
+	- DBName   : 'quick_count'	
+<p align="center">
+  <img src="https://github.com/ihsaninh/test-arkademy/blob/master/quick_count_ss.png">
+</p>
